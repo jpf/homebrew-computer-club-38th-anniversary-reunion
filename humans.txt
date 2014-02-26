@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Joel Franusic
+
+# THANKS
+
+    Hilda Sendyk
+    Lee Felsenstein
+    Matt Spergel
+    Michael Selvidge
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, Modernizr
